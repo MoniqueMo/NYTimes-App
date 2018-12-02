@@ -31,5 +31,5 @@ $("button").on("click", function() {
   term = [];
   numRec = [];
   start = [];
-  vend = [];
+  end = [];
 });
